@@ -16,9 +16,5 @@ brew install jq
 
 # Usage
 
-Its easiest to add the `bin` directory to your path:
-
-```sh
-echo 'export PATH="/path/to/awscli-utils/bin/:$PATH"' >> ~/.profile
-```
+Its easiest to add the `bin` directory to your path by running `./install.sh`.
 
